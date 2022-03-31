@@ -1,0 +1,4 @@
+*.log
+/cache/
+!/cache/.gitkeep
+formation@MBP-de-ngami-2 formation-git %
